@@ -32,6 +32,11 @@ function setLanguage(ctx, lang) {
     const u = getSafeUser(ctx)
     if (!u) return
     u.language = lang
+    if (lang === "fa") {
+        u.tz = "Asia/Tehran"
+    } else {
+        u.tz = "Europe/Berlin"
+    }
     const { updateUser } = require('../db')
     updateUser(u)
     scheduleJobsForUser(ctx.telegram, u)

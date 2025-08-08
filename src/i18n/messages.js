@@ -5,7 +5,7 @@ const {
 function messages(lang) {
     return lang === 'fa'
         ? {
-            welcome: 'به ربات درس‌های دوره ACIM خوش آمدید. لطفاً زبان را انتخاب کنید',
+            welcome: 'به ربات درس‌های دوره ACIM خوش آمدید.',
             choose_language: 'لطفاً زبان را انتخاب کنید',
             language_set: 'زبان شما روی فارسی تنظیم شد.',
             cancelled: '🚫 لغو شد',
@@ -42,7 +42,7 @@ function messages(lang) {
             enable_label_times: (nTimes) => `✅ یادآورها (${nTimes} بار)`,
         }
         : {
-            welcome: 'Welcome to the ACIM Workbook Bot.\nPlease choose your language:',
+            welcome: 'Welcome to the ACIM Workbook Bot.',
             choose_language: 'Please choose your language',
             language_set: 'Great! Language set to English.',
             cancelled: '🚫 Cancelled',
