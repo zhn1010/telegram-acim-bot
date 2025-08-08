@@ -2,15 +2,19 @@
   "name": "acim-telegram-bot",
   "version": "1.0.0",
   "description": "Multilingual ACIM workbook bot (Telegraf + SQLite)",
-  "main": "acim_bot.js",
+  "main": "src/index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node acim_bot.js",
-    "dev": "nodemon --exec node acim_bot.js",
+    "start": "node src/index.js",
+    "dev": "nodemon --exec node src/index.js",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
-  "author": "Your Name",
+  "author": "Saeed Torabzadeh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhn1010/telegram-acim-bot"
+  },
   "license": "MIT",
   "dependencies": {
     "better-sqlite3": "^9.0.0",

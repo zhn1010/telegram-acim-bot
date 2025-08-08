@@ -8,3 +8,4 @@ acim_workbook_audio
 .DS_Store
 .env
 package-lock.json
+.ipynb
