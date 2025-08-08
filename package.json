@@ -1,0 +1,38 @@
+{
+  "name": "acim-telegram-bot",
+  "version": "1.0.0",
+  "description": "Multilingual ACIM workbook bot (Telegraf + SQLite)",
+  "main": "acim_bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node acim_bot.js",
+    "dev": "nodemon --exec node acim_bot.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^9.0.0",
+    "bottleneck": "^2.19.5",
+    "dotenv": "^16.4.0",
+    "luxon": "^3.4.4",
+    "node-cron": "^3.0.3",
+    "telegraf": "^4.16.2",
+    "tz-lookup": "^6.1.25"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/js": "^9.32.0",
+    "eslint": "^8.57.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "globals": "^16.3.0",
+    "nodemon": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
