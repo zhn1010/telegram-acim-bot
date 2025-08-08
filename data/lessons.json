@@ -386,7 +386,7 @@
         "fa": "https://acim-farsi.org/audio/workbook/lesson/41.mp3"
       },
       "repetitionText": {
-        "en": NaN,
+        "en": "God goes with me wherever I go.",
         "fa": "هرجا که می‌روم، خداوند با من می‌آید."
       },
       "title": {
@@ -2866,12 +2866,12 @@
         "fa": ""
       },
       "repetitionText": {
-        "en": NaN,
-        "fa": "نان"
+        "en": "I let forgiveness rest upon all things, for thus forgiveness will be given me",
+        "fa": "من اجازه می‌دهم که بخشایش بر همه چیز استراحت کند، زیرا در این صورت بخشایش به من عطا خواهد شد"
       },
       "title": {
         "en": "I am not asked to make a sacrifice to find the mercy and the peace of God",
-        "fa": "از من خواسته نشده که قربانی کنم تا رحمت و صلح خدا را بیابم"
+        "fa": "من اجازه می‌دهم که بخشایش همه چیز را در بر گیرد، زیرا در این صورت بخشایش به من عطا خواهد شد."
       },
       "text": {
         "en": "I let forgiveness rest upon all things, For thus forgiveness will be given me.\n\nI thank You, Father, for Your plan to save me from the hell I made. It is not real. And You have given me the means to prove its unreality to me. The key is in my hand, and I have reached the door beyond which lies the end of dreams. I stand before the gate of Heaven, wondering if I should enter in and be at home. Let me not wait again today. Let me forgive all things, and let creation be as You would have it be and as it is. Let me remember that I am Your Son, and opening the door at last, forget illusions in the blazing light of truth, as memory of You returns to me.\n\nBrother, forgive me now. I come to you to take you home with me. And as we go, the world goes with us on our way to God.",
@@ -7277,8 +7277,8 @@
         "fa": "https://acim-farsi.org/audio/workbook/lesson/29.mp3"
       },
       "repetitionText": {
-        "en": NaN,
-        "fa": "خداوند* در همه‌ی چیزهایی که من می‌بینم هست."
+        "en": "God is in everything I see.",
+        "fa": "خداوند در همه‌ی چیزهایی که من می‌بینم هست."
       },
       "title": {
         "en": "God is in everything I see because God is in my mind",
@@ -7478,8 +7478,8 @@
         "fa": "https://acim-farsi.org/audio/workbook/lesson/10.mp3"
       },
       "repetitionText": {
-        "en": NaN,
-        "fa": "افکار من هیچ معنایی ندارند. این ایده کمک خواهد کرد که من از تمام آن‌چه اکنون باور دارم، رها شوم."
+        "en": "My thoughts do not mean anything.",
+        "fa": "افکار من هیچ معنایی ندارند."
       },
       "title": {
         "en": "My meaningless thoughts are showing me a meaningless world",

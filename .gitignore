@@ -9,3 +9,6 @@ acim_workbook_audio
 .env
 package-lock.json
 .ipynb
+
+# Ignore all sqlite files
+*.sqlite*
