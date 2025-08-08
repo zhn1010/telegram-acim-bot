@@ -2,7 +2,6 @@ const cron = require('node-cron')
 const { DateTime } = require('luxon')
 const { scheduleDateToCron, parseHHMM, suggestionToTimes } = require('../utils/time')
 const { insertReminder, deleteReminder, updateUser } = require('../db')
-const { messages } = require('../i18n/messages')
 const { sendTodaysLesson } = require('./lessons')
 
 // tg_id => Set<cronjob>

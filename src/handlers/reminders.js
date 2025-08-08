@@ -1,4 +1,3 @@
-const { Telegraf } = require('telegraf')
 const lessons = require('../../data/lessons.json')
 const { getSafeUser } = require('../services/users')
 const { scheduleRepetitions } = require('../services/scheduler')
@@ -13,7 +12,7 @@ function registerReminders(bot /** @type {Telegraf} */) {
         const ok = scheduleRepetitions(ctx.telegram, u, lessonItem)
         await ctx.answerCbQuery(ok ? u.$msg.reminders_enabled : u.$msg.reminder_failed)
         if (ok) {
-            try { await ctx.editMessageReplyMarkup() } catch (_) { }
+            try { await ctx.editMessageReplyMarkup() } catch { /* intentionally ignored */ }
         }
     })
 

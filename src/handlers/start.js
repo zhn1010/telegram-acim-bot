@@ -1,4 +1,4 @@
-const { Telegraf, Markup } = require('telegraf')
+const { Markup } = require('telegraf')
 const { upsertUser } = require('../db')
 const { messages, getUserLang } = require('../i18n/messages')
 

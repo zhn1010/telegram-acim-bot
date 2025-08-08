@@ -1,4 +1,3 @@
-const { Telegraf } = require('telegraf')
 const { getSafeUser } = require('../services/users')
 const { scheduleJobsForUser, cancelJobsForUser } = require('../services/scheduler')
 const { updateUser } = require('../db')

@@ -1,4 +1,4 @@
-const { Telegraf, Markup } = require('telegraf')
+const { Markup } = require('telegraf')
 const tzLookup = require('tz-lookup')
 const { IANAZone } = require('luxon')
 const { TIME_RE, MAX_DAY } = require('../config')
@@ -140,7 +140,7 @@ function registerSettings(bot /** @type {Telegraf} */) {
         let zone
         try {
             zone = tzLookup(latitude, longitude)
-        } catch (e) {
+        } catch {
             awaitingInput.delete(ctx.from.id)
             return ctx.reply(messages('en').tz_gps_error)
         }

@@ -1,4 +1,3 @@
-const { Telegraf } = require('telegraf')
 const { ADMIN_IDS, limiter } = require('../config')
 const { listAllUsers } = require('../db')
 const { messages } = require('../i18n/messages')
