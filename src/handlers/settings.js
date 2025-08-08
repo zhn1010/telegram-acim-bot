@@ -6,6 +6,9 @@ const { labels, messages, settingsSummary } = require('../i18n/messages')
 const { getSafeUser } = require('../services/users')
 const { scheduleJobsForUser, cancelJobsForUser } = require('../services/scheduler')
 const { updateUser } = require('../db')
+const { sendTodaysLesson } = require('../services/lessons')
+const { setCommandsForUser } = require('../utils/commands')
+
 
 // in-memory state for simple waiting flows
 const awaitingInput = new Map() // tg_id => field
@@ -32,16 +35,18 @@ function registerSettings(bot /** @type {Telegraf} */) {
             [Markup.button.callback(`🔁 ${l.rend}`, 'edit_rend')],
             [Markup.button.callback(u.paused ? l.resume_btn : l.pause_btn, 'toggle_pause')],
             [Markup.button.callback(l.back, 'close_settings')],
+            [Markup.button.callback(l.start_specific, 'start_specific')],
+
         ])
         ctx.editMessageReplyMarkup(kb.reply_markup).catch(() => { })
     })
 
-    bot.action('toggle_pause', (ctx) => {
+    bot.action('toggle_pause', async (ctx) => {
         const u = getSafeUser(ctx)
         if (!u) return
         u.paused = u.paused ? 0 : 1
         updateUser(u)
-
+        await setCommandsForUser(ctx.telegram, u);
         if (u.paused) {
             cancelJobsForUser(u.tg_id)
             ctx.answerCbQuery(u.$msg.course_paused)
@@ -66,14 +71,26 @@ function registerSettings(bot /** @type {Telegraf} */) {
         ctx.editMessageReplyMarkup(kb.reply_markup).catch(() => { })
     })
 
-    bot.action(/set_lang_(en|fa)/, (ctx) => {
+    bot.action(/set_lang_(en|fa)/, async (ctx) => {
         const lang = ctx.match[1]
         const u = getSafeUser(ctx)
         if (!u) return
         u.language = lang
         updateUser(u)
+        await setCommandsForUser(ctx.telegram, u)
         ctx.answerCbQuery(messages(lang).settings_updated)
         sendSettingsOverview(ctx, u, false)
+    })
+
+    bot.action('start_specific', (ctx) => {
+        const u = getSafeUser(ctx); if (!u) return
+        const l = labels(u.language)
+        ctx.reply(
+            (u.$msg.choose_lesson_now?.(MAX_DAY)),
+            Markup.keyboard([[l.cancel]]).oneTime(true).resize(true)
+        )
+        awaitingInput.set(ctx.from.id, 'start_now')
+        ctx.answerCbQuery()
     })
 
     bot.action('edit_tz', (ctx) => {
@@ -125,6 +142,16 @@ function registerSettings(bot /** @type {Telegraf} */) {
             if (field === 'ltime') u.lesson_time = val
             if (field === 'rstart') u.rep_start = val
             if (field === 'rend') u.rep_end = val
+        } else if (field === 'start_now') {
+            const n = Number(val)
+            if (!Number.isInteger(n) || n < 1 || n > MAX_DAY) return ctx.reply(u.$msg.invalid_day_range(MAX_DAY))
+            u.lesson_day = n
+            updateUser(u)
+            awaitingInput.delete(ctx.from.id)
+            ctx.reply(u.$msg.starting_lesson ? u.$msg.starting_lesson(n) : `Starting lesson ${n} now…`,
+                { reply_markup: { remove_keyboard: true } })
+            sendTodaysLesson(ctx.telegram, u.tg_id)
+            return
         }
 
         updateUser(u)

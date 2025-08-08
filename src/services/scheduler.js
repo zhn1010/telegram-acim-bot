@@ -18,17 +18,17 @@ function cancelJobsForUser(id) {
     }
 }
 
-function scheduleJobsForUser(bot, user) {
+function scheduleJobsForUser(tg, user) {
     cancelJobsForUser(user.tg_id)
     if (user.paused) return
 
     const [hour, minute] = user.lesson_time.split(':')
     const cronExp = `${minute} ${hour} * * *`
-    const lessonJob = cron.schedule(cronExp, () => sendTodaysLesson(bot, user.tg_id), { timezone: user.tz })
+    const lessonJob = cron.schedule(cronExp, () => sendTodaysLesson(tg, user.tg_id), { timezone: user.tz })
     trackJob(user.tg_id, lessonJob)
 }
 
-function scheduleOneShot(bot, user, dt, repText, persist = true) {
+function scheduleOneShot(tg, user, dt, repText, persist = true) {
     let id = null
     if (persist) id = insertReminder(user.tg_id, dt.toUTC().toISO(), repText)
 
@@ -37,7 +37,7 @@ function scheduleOneShot(bot, user, dt, repText, persist = true) {
         cronExp,
         async () => {
             try {
-                await bot.telegram.sendMessage(user.tg_id, `🔁 ${repText}`, { parse_mode: 'HTML' })
+                await tg.sendMessage(user.tg_id, `🔁 ${repText}`, { parse_mode: 'HTML' })
             } finally {
                 if (id != null) deleteReminder(id)
                 job.stop()
@@ -53,7 +53,7 @@ function scheduleOneShot(bot, user, dt, repText, persist = true) {
     trackJob(user.tg_id, job)
 }
 
-function scheduleRepetitions(bot, user, lessonItem) {
+function scheduleRepetitions(tg, user, lessonItem) {
     const todayISO = DateTime.now().setZone(user.tz).toISODate()
     if (user.rem_last_date === todayISO) return false
 
@@ -66,7 +66,7 @@ function scheduleRepetitions(bot, user, lessonItem) {
     if (times.length === 0) return false
 
     const repText = lessonItem.repetitionText[lang] || lessonItem.repetitionText.en || ''
-    times.forEach((dt) => scheduleOneShot(bot, user, dt, repText))
+    times.forEach((dt) => scheduleOneShot(tg, user, dt, repText))
 
     user.rem_last_date = todayISO
     updateUser(user)

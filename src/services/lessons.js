@@ -34,27 +34,29 @@ function calculateEnableLabel(user, lastItem) {
     return { preview, enableLabel }
 }
 
-async function sendTodaysLesson(bot, tg_id) {
+async function sendTodaysLesson(tg, tg_id) {
     const user = { ...getUser(tg_id) }
     if (!user || user.paused) return
 
     const dayKey = String(user.lesson_day)
     const lessonArr = lessons[dayKey]
     if (!lessonArr) {
-        bot.telegram.sendMessage(tg_id, messages(user?.language || 'en').all_done)
+        tg.sendMessage(tg_id, messages(user?.language || 'en').all_done)
         user.paused = 1
         updateUser(user)
         return
     }
 
     const lang = user.language
-    for (const item of lessonArr) {
+    for (let i = 0; i < lessonArr.length; i++) {
+        const item = lessonArr[i]
         const title = item.title[lang] || item.title.en
         const text = item.text[lang] || item.text.en
         const audio = null
-        const message = `📜 <b>${title}</b>\n\n${text}`
-        await bot.telegram.sendMessage(tg_id, message, { parse_mode: 'HTML' })
-        if (audio && audio.length) await bot.telegram.sendAudio(tg_id, audio)
+        const lessonNumber = lessonArr.length > 1 && i === 0 ? messages(lang).introduction : messages(lang).lesson_number(user.lesson_day)
+        const message = `<b>${lessonNumber}</b>\n📜 <b>${title}</b>\n\n${text}`
+        await tg.sendMessage(tg_id, message, { parse_mode: 'HTML' })
+        if (audio && audio.length) await tg.sendAudio(tg_id, audio)
     }
 
     const lastItem = lessonArr[lessonArr.length - 1]
@@ -66,7 +68,7 @@ async function sendTodaysLesson(bot, tg_id) {
         [Markup.button.callback(messages(lang).skip_today, `skip_rem_${dayKey}`)],
     ])
 
-    await bot.telegram.sendMessage(tg_id, `💡 ${rep}${preview}`, { parse_mode: 'HTML', reply_markup: inline })
+    await tg.sendMessage(tg_id, `💡 ${rep}${preview}`, { parse_mode: 'HTML', reply_markup: inline })
 
     // Advance day
     user.lesson_day += 1

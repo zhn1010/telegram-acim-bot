@@ -2,6 +2,23 @@ const {
     DEFAULT_LANGUAGE,
 } = require('../config')
 
+function convertToArabicNumbers(num) {
+    const arabicNumbers = [
+        '٠',
+        '١',
+        '٢',
+        '٣',
+        '٤',
+        '٥',
+        '٦',
+        '٧',
+        '٨',
+        '٩'
+    ]
+    return String(num).split('').map(digit => arabicNumbers[Number(digit)]).join('')
+}
+
+
 function messages(lang) {
     return lang === 'fa'
         ? {
@@ -40,6 +57,16 @@ function messages(lang) {
                 `\n\n🕒 امروز: بین ${start} تا ${end} — ${count} بار.`,
             enable_label_every: (everyMinutes) => `✅ یادآورها (هر ${everyMinutes} دقیقه)`,
             enable_label_times: (nTimes) => `✅ یادآورها (${nTimes} بار)`,
+            choose_lesson_now: (max) => `لطفاً شماره درس را برای شروع ارسال کنید (1–${max})`,
+            starting_lesson: (n) => `شروع درس ${n} همین حالا…`,
+            first_prompt: 'می‌خواهید همین حالا با درس ۱ شروع کنید؟',
+            first_start_now: '▶️ شروع اکنون',
+            first_wait_today: (t) => `⏰ منتظر بمانید تا امروز ساعت ${t}`,
+            first_wait_tomorrow: (t) => `⏰ منتظر بمانید تا فردا ساعت ${t}`,
+            first_started: 'در حال شروع درس ۱…',
+            first_scheduled_today: (t) => `عالی — امروز ساعت ${t} برایتان ارسال می‌شود.`,
+            lesson_number: (num) => `درس ${convertToArabicNumbers(num)}`,
+            introduction: 'مقدمه',
         }
         : {
             welcome: 'Welcome to the ACIM Workbook Bot.',
@@ -77,6 +104,16 @@ function messages(lang) {
                 `\n\n🕒 Today: between ${start} and ${end} — ${count} times.`,
             enable_label_every: (everyMinutes) => `✅ Enable reminders (every ${everyMinutes} min)`,
             enable_label_times: (nTimes) => `✅ Enable reminders (${nTimes} times)`,
+            choose_lesson_now: (max) => `Send the lesson number to start now (1–${max})`,
+            starting_lesson: (n) => `Starting lesson ${n} now…`,
+            first_prompt: 'Do you want to start with Lesson 1 now?',
+            first_start_now: '▶️ Start now',
+            first_wait_today: (t) => `⏰ Wait until ${t} today`,
+            first_wait_tomorrow: (t) => `⏰ Wait until ${t} tomorrow`,
+            first_started: 'Starting Lesson 1 now…',
+            first_scheduled_today: (t) => `Great — we’ll send your first lesson at ${t} today.`,
+            lesson_number: (num) => `Lesson ${num}`,
+            introduction: 'Introduction',
         }
 }
 
@@ -86,29 +123,31 @@ function labels(lang) {
             lang: 'زبان',
             tz: 'منطقه‌زمانی',
             day: 'روز درس',
-            ltime: 'ساعت درس',
-            rstart: 'شروع تکرار',
-            rend: 'پایان تکرار',
+            ltime: 'ساعت ارسال درس‌های روزانه',
+            rstart: 'شروع ارسال یادآوری‌ها',
+            rend: 'پایان ارسال یادآوری‌ها',
             change: '🔧 تغییر تنظیمات',
             back: '⬅️ بازگشت',
             cancel: 'لغو',
             sendNew: 'لطفاً مقدار جدید را ارسال کنید',
             pause_btn: '⏸ توقف دوره',
             resume_btn: '▶️ ادامهٔ دوره',
+            start_specific: '▶️ شروع درس همین حالا …',
         }
         : {
             lang: 'Language',
             tz: 'Timezone',
             day: 'Lesson day',
-            ltime: 'Lesson time',
-            rstart: 'Repeat start',
-            rend: 'Repeat end',
+            ltime: 'Time of sending daily lessons',
+            rstart: 'Reminders start time',
+            rend: 'Reminders end time',
             change: '🔧 Change settings',
             back: '⬅️ Back',
             cancel: 'Cancel',
             sendNew: 'Please send the new value',
             pause_btn: '⏸ Pause course',
             resume_btn: '▶️ Resume course',
+            start_specific: '▶️ Start lesson now …',
         }
 }
 

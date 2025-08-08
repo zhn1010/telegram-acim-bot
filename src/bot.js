@@ -6,6 +6,8 @@ const { registerSettings } = require('./handlers/settings')
 const { registerReminders } = require('./handlers/reminders')
 const { registerPauseResume } = require('./handlers/pauseResume')
 const { registerAdmin } = require('./handlers/admin')
+const { registerLessonNow } = require('./handlers/lessonNow')
+
 
 const bot = new Telegraf(BOT_TOKEN)
 
@@ -15,5 +17,7 @@ registerSettings(bot)
 registerReminders(bot)
 registerPauseResume(bot)
 registerAdmin(bot)
+registerLessonNow(bot)
+
 
 module.exports = { bot }

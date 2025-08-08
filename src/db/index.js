@@ -64,6 +64,10 @@ function getPendingReminders() {
     return db.prepare('SELECT id, tg_id, fire_at_utc, text FROM reminders').all()
 }
 
+function listAllUsersFull() {
+    return db.prepare('SELECT * FROM users').all()
+}
+
 module.exports = {
     db,
     upsertUser,
@@ -74,4 +78,5 @@ module.exports = {
     insertReminder,
     deleteReminder,
     getPendingReminders,
+    listAllUsersFull,
 }
