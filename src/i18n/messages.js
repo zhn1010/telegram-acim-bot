@@ -37,7 +37,7 @@ function messages(lang) {
             invalid_time: 'فرمت باید HH:mm باشد. مثال: 06:00',
             reminders_enabled: 'یادآورها برای امروز فعال شدند!',
             reminder_failed: 'یادآوری‌ای برنامه‌ریزی نشد.',
-            no_reminders: 'یادآوری‌ای برنامه‌ریزی نشد.',
+            no_reminders: 'یادآوری‌ای برای برنامه‌ریزی یافت نشد.',
             no_msg: 'استفاده: /broadcast <پیام>',
             broadcast_done: (ok, fail) => `📢 پیام ارسال شد. ✅ ${ok}، ❌ ${fail}`,
             share_location: '📍 ارسال مکان',
@@ -52,9 +52,9 @@ function messages(lang) {
             preview_every: ({ everyMinutes, start, end, count }) =>
                 `\n\n🕒 امروز: هر ${everyMinutes} دقیقه از ${start} تا ${end} — ${count} بار.`,
             preview_times: ({ nTimes, start, end, count }) =>
-                `\n\n🕒 امروز: ${nTimes} بار بین ${start} تا ${end}${count !== nTimes ? ` — پیش‌بینی کنونی: ${count} بار` : ''}.`,
+                `\n\n🕒 امروز: ${nTimes} بار بین ${start} و ${end}${count !== nTimes ? ` — پیش‌بینی کنونی: ${count} بار` : ''}.`,
             preview_generic: ({ start, end, count }) =>
-                `\n\n🕒 امروز: بین ${start} تا ${end} — ${count} بار.`,
+                `\n\n🕒 امروز: بین ${start} و ${end} — ${count} بار.`,
             enable_label_every: (everyMinutes) => `✅ یادآورها (هر ${everyMinutes} دقیقه)`,
             enable_label_times: (nTimes) => `✅ یادآورها (${nTimes} بار)`,
             choose_lesson_now: (max) => `لطفاً شماره درس را برای شروع ارسال کنید (1–${max})`,
@@ -84,7 +84,7 @@ function messages(lang) {
             invalid_time: 'Format must be HH:mm, e.g. 06:00',
             reminders_enabled: 'Reminders enabled for today!',
             reminder_failed: 'Reminder could not be scheduled.',
-            no_reminders: 'No reminders could be scheduled.',
+            no_reminders: 'No reminders were found to be scheduled.',
             no_msg: 'Usage: /broadcast <message>',
             broadcast_done: (ok, fail) => `📢 Broadcast finished. ✅ ${ok}, ❌ ${fail}`,
             share_location: '📍 Share location',

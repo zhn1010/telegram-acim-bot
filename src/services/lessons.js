@@ -50,11 +50,10 @@ async function sendTodaysLesson(tg, tg_id) {
     const lang = user.language
     for (let i = 0; i < lessonArr.length; i++) {
         const item = lessonArr[i]
-        const title = item.title[lang] || item.title.en
         const text = item.text[lang] || item.text.en
         const audio = null
         const lessonNumber = lessonArr.length > 1 && i === 0 ? messages(lang).introduction : messages(lang).lesson_number(user.lesson_day)
-        const message = `<b>${lessonNumber}</b>\n📜 <b>${title}</b>\n\n${text}`
+        const message = `<b>📜 ${lessonNumber}</b>\n\n${text}`
         await tg.sendMessage(tg_id, message, { parse_mode: 'HTML' })
         if (audio && audio.length) await tg.sendAudio(tg_id, audio)
     }

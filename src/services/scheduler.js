@@ -55,7 +55,6 @@ function scheduleOneShot(tg, user, dt, repText, persist = true) {
 
 function scheduleRepetitions(tg, user, lessonItem) {
     const todayISO = DateTime.now().setZone(user.tz).toISODate()
-    if (user.rem_last_date === todayISO) return false
 
     const lang = user.language
     const suggestion = (lessonItem.suggestedRepetition ?? ['every_hour'])[0]
@@ -63,7 +62,9 @@ function scheduleRepetitions(tg, user, lessonItem) {
     const start = parseHHMM(user.rep_start, user.tz)
     const end = parseHHMM(user.rep_end, user.tz)
     const times = suggestionToTimes(suggestion, start, end).filter((t) => t > DateTime.now().setZone(user.tz))
-    if (times.length === 0) return false
+    if (times.length === 0) {
+        return false
+    }
 
     const repText = lessonItem.repetitionText[lang] || lessonItem.repetitionText.en || ''
     times.forEach((dt) => scheduleOneShot(tg, user, dt, repText))
