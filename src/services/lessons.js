@@ -8,7 +8,7 @@ const { suggestionToTimes, parseHHMM } = require('../utils/time')
 
 function calculateEnableLabel(user, lastItem) {
     const M = user.$msg || messages(user.language)
-    const suggestion = (lastItem.suggestedRepetition ?? ['every_hour'])[0]
+    const suggestion = (lastItem.suggestedRepetition?.[0] ?? 'every_hour')
     const start = user.rep_start
     const end = user.rep_end
     const nowInTz = DateTime.now().setZone(user.tz)
@@ -68,7 +68,7 @@ async function sendTodaysLesson(tg, tg_id) {
         [Markup.button.callback(messages(lang).skip_today, `skip_rem_${dayKey}`)],
     ])
 
-    await tg.sendMessage(tg_id, `💡 ${rep}${preview}`, { parse_mode: 'HTML', reply_markup: inline })
+    await tg.sendMessage(tg_id, `💡 ${rep}${preview}`, { parse_mode: 'HTML', ...inline })
 
     // Advance day
     user.lesson_day += 1

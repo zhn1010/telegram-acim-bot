@@ -21,10 +21,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/review-1"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["2_times"]
     },
     {
       "audioAddress": {
@@ -47,10 +44,7 @@
         "en": "https://acim.org/acim/review-i/lesson-52/en/s/455",
         "fa": "https://acim-farsi.org/workbook/lesson/51"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "325": [
@@ -75,7 +69,7 @@
         "en": "https://acim.org/acim/lesson-326/i-am-forever-an-effect-of-god/en/s/748",
         "fa": "https://acim-farsi.org/workbook/lesson/325"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "18": [
@@ -100,7 +94,7 @@
         "en": "https://acim.org/acim/lesson-19/i-am-not-alone-in-experiencing-the-effects-of-my/en/s/421",
         "fa": "https://acim-farsi.org/workbook/lesson/18"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["3_times", "4_times"]
     }
   ],
   "198": [
@@ -125,7 +119,7 @@
         "en": "https://acim.org/acim/lesson-199/i-am-not-a-body-i-am-free/en/s/607",
         "fa": "https://acim-farsi.org/workbook/lesson/198"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": []
     }
   ],
   "232": [
@@ -150,7 +144,7 @@
         "en": "https://acim.org/acim/lesson-233/i-give-my-life-to-god-to-guide-today/en/s/646",
         "fa": "https://acim-farsi.org/workbook/lesson/232"
       },
-      "suggestedRepetition": ["3_times", "4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "9": [
@@ -200,7 +194,7 @@
         "en": "https://acim.org/acim/lesson-191/i-am-the-holy-son-of-god-himself/en/s/599",
         "fa": "https://acim-farsi.org/workbook/lesson/190"
       },
-      "suggestedRepetition": ["3_times", "4_times"]
+      "suggestedRepetition": []
     }
   ],
   "321": [
@@ -225,10 +219,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-creation"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -251,7 +242,7 @@
         "en": "https://acim.org/acim/lesson-322/i-can-give-up-but-what-was-never-real/en/s/744",
         "fa": "https://acim-farsi.org/workbook/lesson/321"
       },
-      "suggestedRepetition": ["3_times", "4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "7": [
@@ -276,7 +267,7 @@
         "en": "https://acim.org/acim/lesson-8/my-mind-is-preoccupied-with-past-thoughts/en/s/410",
         "fa": "https://acim-farsi.org/workbook/lesson/7"
       },
-      "suggestedRepetition": ["4_times", "5_times"]
+      "suggestedRepetition": ["3_times", "4_times"]
     }
   ],
   "115": [
@@ -301,7 +292,7 @@
         "en": "https://acim.org/acim/review-iii/lesson-116/en/s/521",
         "fa": "https://acim-farsi.org/workbook/lesson/115"
       },
-      "suggestedRepetition": ["3_times", "4_times"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "105": [
@@ -326,7 +317,7 @@
         "en": "https://acim.org/acim/lesson-106/let-me-be-still-and-listen-to-the-truth/en/s/510",
         "fa": "https://acim-farsi.org/workbook/lesson/105"
       },
-      "suggestedRepetition": ["5_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "94": [
@@ -351,7 +342,7 @@
         "en": "https://acim.org/acim/lesson-95/i-am-one-self-united-with-my-creator/en/s/499",
         "fa": "https://acim-farsi.org/workbook/lesson/94"
       },
-      "suggestedRepetition": ["3_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "290": [
@@ -376,7 +367,7 @@
         "en": "https://acim.org/acim/lesson-291/this-is-a-day-of-stillness-and-of-peace/en/s/710",
         "fa": "https://acim-farsi.org/workbook/lesson/290"
       },
-      "suggestedRepetition": ["3_times", "4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "41": [
@@ -401,7 +392,7 @@
         "en": "https://acim.org/acim/lesson-42/god-is-my-strength-vision-is-his-gift/en/s/444",
         "fa": "https://acim-farsi.org/workbook/lesson/41"
       },
-      "suggestedRepetition": ["3_times", "4_times"]
+      "suggestedRepetition": []
     }
   ],
   "351": [
@@ -426,10 +417,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-am-i"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -452,7 +440,7 @@
         "en": "https://acim.org/acim/lesson-352/judgment-and-love-are-opposites-from-one-come/en/s/777",
         "fa": "https://acim-farsi.org/workbook/lesson/351"
       },
-      "suggestedRepetition": ["3_times", "4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "176": [
@@ -477,7 +465,7 @@
         "en": "https://acim.org/acim/review-v/lesson-177/en/s/584",
         "fa": "https://acim-farsi.org/workbook/lesson/176"
       },
-      "suggestedRepetition": ["3_times", "4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "255": [
@@ -502,7 +490,7 @@
         "en": "https://acim.org/acim/lesson-256/god-is-the-only-goal-i-have-today/en/s/671",
         "fa": "https://acim-farsi.org/workbook/lesson/255"
       },
-      "suggestedRepetition": ["4_times", "5_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "235": [
@@ -527,7 +515,7 @@
         "en": "https://acim.org/acim/lesson-236/i-rule-my-mind-which-i-alone-must-rule/en/s/649",
         "fa": "https://acim-farsi.org/workbook/lesson/235"
       },
-      "suggestedRepetition": ["3_times", "4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "5": [
@@ -577,7 +565,7 @@
         "en": "https://acim.org/acim/lesson-304/let-not-my-world-obscure-the-sight-of-christ/en/s/724",
         "fa": "https://acim-farsi.org/workbook/lesson/303"
       },
-      "suggestedRepetition": ["3_times", "4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "39": [
@@ -602,7 +590,7 @@
         "en": "https://acim.org/acim/lesson-40/i-am-blessed-as-a-son-of-god/en/s/442",
         "fa": "https://acim-farsi.org/workbook/lesson/39"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_15_minutes", "every_20_minutes"]
     }
   ],
   "194": [
@@ -627,7 +615,7 @@
         "en": "https://acim.org/acim/lesson-195/love-is-the-way-i-walk-in-gratitude/en/s/603",
         "fa": "https://acim-farsi.org/workbook/lesson/194"
       },
-      "suggestedRepetition": ["5_times"]
+      "suggestedRepetition": []
     }
   ],
   "249": [
@@ -652,7 +640,7 @@
         "en": "https://acim.org/acim/lesson-250/let-me-not-see-myself-as-limited/en/s/664",
         "fa": "https://acim-farsi.org/workbook/lesson/249"
       },
-      "suggestedRepetition": ["5_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "116": [
@@ -677,7 +665,7 @@
         "en": "https://acim.org/acim/review-iii/lesson-117/en/s/522",
         "fa": "https://acim-farsi.org/workbook/lesson/116"
       },
-      "suggestedRepetition": ["5_times"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "153": [
@@ -702,7 +690,7 @@
         "en": "https://acim.org/acim/lesson-154/i-am-among-the-ministers-of-god/en/s/560",
         "fa": "https://acim-farsi.org/workbook/lesson/153"
       },
-      "suggestedRepetition": ["5_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "252": [
@@ -727,7 +715,7 @@
         "en": "https://acim.org/acim/lesson-253/my-self-is-ruler-of-the-universe/en/s/668",
         "fa": "https://acim-farsi.org/workbook/lesson/252"
       },
-      "suggestedRepetition": ["6_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "330": [
@@ -752,7 +740,7 @@
         "en": "https://acim.org/acim/lesson-331/there-is-no-conflict-for-my-will-is-yours/en/s/754",
         "fa": "https://acim-farsi.org/workbook/lesson/330"
       },
-      "suggestedRepetition": ["6_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "331": [
@@ -777,10 +765,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-the-ego"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -803,7 +788,7 @@
         "en": "https://acim.org/acim/lesson-332/fear-binds-the-world-forgiveness-sets-it-free/en/s/755",
         "fa": "https://acim-farsi.org/workbook/lesson/331"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "337": [
@@ -828,7 +813,7 @@
         "en": "https://acim.org/acim/lesson-338/i-am-affected-only-by-my-thoughts/en/s/761",
         "fa": "https://acim-farsi.org/workbook/lesson/337"
       },
-      "suggestedRepetition": ["6_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "282": [
@@ -878,7 +863,7 @@
         "en": "https://acim.org/acim/lesson-140/only-salvation-can-be-said-to-cure/en/s/545",
         "fa": "https://acim-farsi.org/workbook/lesson/139"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "143": [
@@ -903,7 +888,7 @@
         "en": "https://acim.org/acim/review-iv/lesson-144/en/s/550",
         "fa": "https://acim-farsi.org/workbook/lesson/143"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "238": [
@@ -928,7 +913,7 @@
         "en": "https://acim.org/acim/lesson-239/the-glory-of-my-father-is-my-own/en/s/652",
         "fa": "https://acim-farsi.org/workbook/lesson/238"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "344": [
@@ -953,7 +938,7 @@
         "en": "https://acim.org/acim/lesson-345/i-offer-only-miracles-today-for-i-would-have-them/en/s/769",
         "fa": "https://acim-farsi.org/workbook/lesson/344"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "174": [
@@ -978,7 +963,7 @@
         "en": "https://acim.org/acim/review-v/lesson-175/en/s/582",
         "fa": "https://acim-farsi.org/workbook/lesson/174"
       },
-      "suggestedRepetition": ["3_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "112": [
@@ -1003,7 +988,7 @@
         "en": "https://acim.org/acim/review-iii/lesson-113/en/s/518",
         "fa": "https://acim-farsi.org/workbook/lesson/112"
       },
-      "suggestedRepetition": ["3_times"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "147": [
@@ -1028,7 +1013,7 @@
         "en": "https://acim.org/acim/review-iv/lesson-148/en/s/554",
         "fa": "https://acim-farsi.org/workbook/lesson/147"
       },
-      "suggestedRepetition": ["4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "277": [
@@ -1053,7 +1038,7 @@
         "en": "https://acim.org/acim/lesson-278/if-i-am-bound-my-father-is-not-free/en/s/695",
         "fa": "https://acim-farsi.org/workbook/lesson/277"
       },
-      "suggestedRepetition": ["4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "259": [
@@ -1078,7 +1063,7 @@
         "en": "https://acim.org/acim/lesson-260/let-me-remember-god-created-me/en/s/675",
         "fa": "https://acim-farsi.org/workbook/lesson/259"
       },
-      "suggestedRepetition": ["4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "315": [
@@ -1103,7 +1088,7 @@
         "en": "https://acim.org/acim/lesson-316/all-gifts-i-give-my-brothers-are-my-own/en/s/737",
         "fa": "https://acim-farsi.org/workbook/lesson/315"
       },
-      "suggestedRepetition": ["every_15_minutes", "every_20_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "332": [
@@ -1128,7 +1113,7 @@
         "en": "https://acim.org/acim/lesson-333/forgiveness-ends-the-dream-of-conflict-here/en/s/756",
         "fa": "https://acim-farsi.org/workbook/lesson/332"
       },
-      "suggestedRepetition": ["every_10_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "72": [
@@ -1153,7 +1138,7 @@
         "en": "https://acim.org/acim/lesson-73/i-will-there-be-light/en/s/476",
         "fa": "https://acim-farsi.org/workbook/lesson/72"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour", "every_30_minutes"]
     }
   ],
   "133": [
@@ -1178,7 +1163,7 @@
         "en": "https://acim.org/acim/lesson-134/let-me-perceive-forgiveness-as-it-is/en/s/539",
         "fa": "https://acim-farsi.org/workbook/lesson/133"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": []
     }
   ],
   "179": [
@@ -1203,7 +1188,7 @@
         "en": "https://acim.org/acim/review-v/lesson-180/en/s/587",
         "fa": "https://acim-farsi.org/workbook/lesson/179"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "86": [
@@ -1228,7 +1213,7 @@
         "en": "https://acim.org/acim/review-ii/lesson-87/en/s/491",
         "fa": "https://acim-farsi.org/workbook/lesson/86"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": []
     }
   ],
   "35": [
@@ -1253,7 +1238,7 @@
         "en": "https://acim.org/acim/lesson-36/my-holiness-envelops-everything-i-see/en/s/438",
         "fa": "https://acim-farsi.org/workbook/lesson/35"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["3_times"]
     }
   ],
   "365": [
@@ -1278,10 +1263,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/lessons-361-365"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -1304,7 +1286,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/epilogue"
       },
-      "suggestedRepetition": ["3_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "268": [
@@ -1329,7 +1311,7 @@
         "en": "https://acim.org/acim/lesson-269/my-sight-goes-forth-to-look-upon-christs-face/en/s/685",
         "fa": "https://acim-farsi.org/workbook/lesson/268"
       },
-      "suggestedRepetition": ["4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "279": [
@@ -1354,7 +1336,7 @@
         "en": "https://acim.org/acim/lesson-280/what-limits-can-i-lay-upon-gods-son/en/s/697",
         "fa": "https://acim-farsi.org/workbook/lesson/279"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "283": [
@@ -1379,7 +1361,7 @@
         "en": "https://acim.org/acim/lesson-284/i-can-elect-to-change-all-thoughts-that-hurt/en/s/702",
         "fa": "https://acim-farsi.org/workbook/lesson/283"
       },
-      "suggestedRepetition": ["4_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "149": [
@@ -1404,7 +1386,7 @@
         "en": "https://acim.org/acim/review-iv/lesson-150/en/s/556",
         "fa": "https://acim-farsi.org/workbook/lesson/149"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "320": [
@@ -1429,7 +1411,7 @@
         "en": "https://acim.org/acim/lesson-321/father-my-freedom-is-in-you-alone/en/s/743",
         "fa": "https://acim-farsi.org/workbook/lesson/320"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "265": [
@@ -1454,7 +1436,7 @@
         "en": "https://acim.org/acim/lesson-266/my-holy-self-abides-in-you-gods-son/en/s/682",
         "fa": "https://acim-farsi.org/workbook/lesson/265"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "97": [
@@ -1479,7 +1461,7 @@
         "en": "https://acim.org/acim/lesson-98/i-will-accept-my-part-in-gods-plan-for-salvation/en/s/502",
         "fa": "https://acim-farsi.org/workbook/lesson/97"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "106": [
@@ -1504,7 +1486,7 @@
         "en": "https://acim.org/acim/lesson-107/truth-will-correct-all-errors-in-my-mind/en/s/511",
         "fa": "https://acim-farsi.org/workbook/lesson/106"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "250": [
@@ -1529,7 +1511,7 @@
         "en": "https://acim.org/acim/lesson-251/i-am-in-need-of-nothing-but-the-truth/en/s/666",
         "fa": "https://acim-farsi.org/workbook/lesson/250"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "296": [
@@ -1554,7 +1536,7 @@
         "en": "https://acim.org/acim/lesson-297/forgiveness-is-the-only-gift-i-give/en/s/716",
         "fa": "https://acim-farsi.org/workbook/lesson/296"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "254": [
@@ -1579,7 +1561,7 @@
         "en": "https://acim.org/acim/lesson-255/this-day-i-choose-to-spend-in-perfect-peace/en/s/670",
         "fa": "https://acim-farsi.org/workbook/lesson/254"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "170": [
@@ -1604,7 +1586,7 @@
         "en": "https://acim.org/acim/review-v/lesson-171/en/s/578",
         "fa": "https://acim-farsi.org/workbook/lesson/170"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "264": [
@@ -1629,7 +1611,7 @@
         "en": "https://acim.org/acim/lesson-265/creations-gentleness-is-all-i-see/en/s/681",
         "fa": "https://acim-farsi.org/workbook/lesson/264"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "309": [
@@ -1654,7 +1636,7 @@
         "en": "https://acim.org/acim/lesson-310/in-fearlessness-and-love-i-spend-today/en/s/730",
         "fa": "https://acim-farsi.org/workbook/lesson/309"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "240": [
@@ -1679,7 +1661,7 @@
         "en": "https://acim.org/acim/lesson-241/this-holy-instant-is-salvation-come/en/s/655",
         "fa": "https://acim-farsi.org/workbook/lesson/240"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "209": [
@@ -1704,7 +1686,7 @@
         "en": "https://acim.org/acim/review-vi/lesson-210/en/s/619",
         "fa": "https://acim-farsi.org/workbook/lesson/209"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "204": [
@@ -1729,7 +1711,7 @@
         "en": "https://acim.org/acim/review-vi/lesson-205/en/s/614",
         "fa": "https://acim-farsi.org/workbook/lesson/204"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "326": [
@@ -1754,7 +1736,7 @@
         "en": "https://acim.org/acim/lesson-327/i-need-but-call-and-you-will-answer-me/en/s/749",
         "fa": "https://acim-farsi.org/workbook/lesson/326"
       },
-      "suggestedRepetition": ["1_time"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "173": [
@@ -1804,7 +1786,7 @@
         "en": "https://acim.org/acim/lesson-79/let-me-recognize-the-problem-so-it-can-be-solved/en/s/482",
         "fa": "https://acim-farsi.org/workbook/lesson/78"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": []
     }
   ],
   "58": [
@@ -1829,7 +1811,7 @@
         "en": "https://acim.org/acim/review-i/lesson-59/en/s/462",
         "fa": "https://acim-farsi.org/workbook/lesson/58"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "125": [
@@ -1854,7 +1836,7 @@
         "en": "https://acim.org/acim/lesson-126/all-that-i-give-is-given-to-myself/en/s/531",
         "fa": "https://acim-farsi.org/workbook/lesson/125"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["3_times"]
     }
   ],
   "293": [
@@ -1879,7 +1861,7 @@
         "en": "https://acim.org/acim/lesson-294/my-body-is-a-wholly-neutral-thing/en/s/713",
         "fa": "https://acim-farsi.org/workbook/lesson/293"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "284": [
@@ -1904,7 +1886,7 @@
         "en": "https://acim.org/acim/lesson-285/my-holiness-shines-bright-and-clear-today/en/s/703",
         "fa": "https://acim-farsi.org/workbook/lesson/284"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "286": [
@@ -1929,7 +1911,7 @@
         "en": "https://acim.org/acim/lesson-287/you-are-my-goal-my-father-only-you/en/s/705",
         "fa": "https://acim-farsi.org/workbook/lesson/286"
       },
-      "suggestedRepetition": ["every_8_minutes", "every_10_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "82": [
@@ -1954,7 +1936,7 @@
         "en": "https://acim.org/acim/review-ii/lesson-83/en/s/487",
         "fa": "https://acim-farsi.org/workbook/lesson/82"
       },
-      "suggestedRepetition": ["every_hour", "every_30_minutes"]
+      "suggestedRepetition": []
     }
   ],
   "2": [
@@ -1979,7 +1961,7 @@
         "en": "https://acim.org/acim/lesson-3/i-do-not-understand-anything-i-see/en/s/405",
         "fa": "https://acim-farsi.org/workbook/lesson/2"
       },
-      "suggestedRepetition": ["every_20_minutes"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "285": [
@@ -2004,7 +1986,7 @@
         "en": "https://acim.org/acim/lesson-286/the-hush-of-heaven-holds-my-heart-today/en/s/704",
         "fa": "https://acim-farsi.org/workbook/lesson/285"
       },
-      "suggestedRepetition": ["every_15_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "121": [
@@ -2029,7 +2011,7 @@
         "en": "https://acim.org/acim/lesson-122/forgiveness-offers-everything-i-want/en/s/527",
         "fa": "https://acim-farsi.org/workbook/lesson/121"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "183": [
@@ -2054,7 +2036,7 @@
         "en": "https://acim.org/acim/lesson-184/the-name-of-god-is-my-inheritance/en/s/592",
         "fa": "https://acim-farsi.org/workbook/lesson/183"
       },
-      "suggestedRepetition": ["every_15_minutes", "every_12_minutes"]
+      "suggestedRepetition": []
     }
   ],
   "71": [
@@ -2079,7 +2061,7 @@
         "en": "https://acim.org/acim/lesson-72/holding-grievances-is-an-attack-on-gods-plan-for/en/s/475",
         "fa": "https://acim-farsi.org/workbook/lesson/71"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_8_minutes", "every_10_minutes"]
     }
   ],
   "45": [
@@ -2104,7 +2086,7 @@
         "en": "https://acim.org/acim/lesson-46/god-is-the-love-in-which-i-forgive/en/s/448",
         "fa": "https://acim-farsi.org/workbook/lesson/45"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": []
     }
   ],
   "280": [
@@ -2129,7 +2111,7 @@
         "en": "https://acim.org/acim/lesson-281/i-can-be-hurt-by-nothing-but-my-thoughts/en/s/699",
         "fa": "https://acim-farsi.org/workbook/lesson/280"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "98": [
@@ -2154,7 +2136,7 @@
         "en": "https://acim.org/acim/lesson-99/salvation-is-my-only-function-here/en/s/503",
         "fa": "https://acim-farsi.org/workbook/lesson/98"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "1": [
@@ -2179,7 +2161,7 @@
         "en": "https://acim.org/acim/lesson-2/i-have-given-everything-i-see-all-the-meaning-that/en/s/404",
         "fa": "https://acim-farsi.org/workbook/lesson/1"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "213": [
@@ -2204,7 +2186,7 @@
         "en": "https://acim.org/acim/review-vi/lesson-214/en/s/623",
         "fa": "https://acim-farsi.org/workbook/lesson/213"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "60": [
@@ -2229,7 +2211,7 @@
         "en": "https://acim.org/acim/lesson-61/i-am-the-light-of-the-world/en/s/464",
         "fa": "https://acim-farsi.org/workbook/lesson/60"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "166": [
@@ -2254,7 +2236,7 @@
         "en": "https://acim.org/acim/lesson-167/there-is-one-life-and-that-i-share-with-god/en/s/573",
         "fa": "https://acim-farsi.org/workbook/lesson/166"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "20": [
@@ -2279,7 +2261,7 @@
         "en": "https://acim.org/acim/lesson-21/i-am-determined-to-see-things-differently/en/s/423",
         "fa": "https://acim-farsi.org/workbook/lesson/20"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "348": [
@@ -2304,7 +2286,7 @@
         "en": "https://acim.org/acim/lesson-349/today-i-let-christs-vision-look-upon-all-things/en/s/773",
         "fa": "https://acim-farsi.org/workbook/lesson/348"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "65": [
@@ -2329,7 +2311,7 @@
         "en": "https://acim.org/acim/lesson-66/my-happiness-and-my-function-are-one/en/s/469",
         "fa": "https://acim-farsi.org/workbook/lesson/65"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "63": [
@@ -2354,7 +2336,7 @@
         "en": "https://acim.org/acim/lesson-64/let-me-not-forget-my-function/en/s/467",
         "fa": "https://acim-farsi.org/workbook/lesson/63"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "178": [
@@ -2379,7 +2361,7 @@
         "en": "https://acim.org/acim/review-v/lesson-179/en/s/586",
         "fa": "https://acim-farsi.org/workbook/lesson/178"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "196": [
@@ -2404,7 +2386,7 @@
         "en": "https://acim.org/acim/lesson-197/it-can-be-but-my-gratitude-i-earn/en/s/605",
         "fa": "https://acim-farsi.org/workbook/lesson/196"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": []
     }
   ],
   "313": [
@@ -2429,7 +2411,7 @@
         "en": "https://acim.org/acim/lesson-314/i-seek-a-future-different-from-the-past/en/s/735",
         "fa": "https://acim-farsi.org/workbook/lesson/313"
       },
-      "suggestedRepetition": ["every_10_minutes", "every_12_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "171": [
@@ -2454,10 +2436,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/review-5"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -2480,7 +2459,7 @@
         "en": "https://acim.org/acim/review-v/lesson-172/en/s/579",
         "fa": "https://acim-farsi.org/workbook/lesson/171"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "347": [
@@ -2555,10 +2534,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/review-2"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": []
     },
     {
       "audioAddress": {
@@ -2581,7 +2557,7 @@
         "en": "https://acim.org/acim/review-ii/lesson-82/en/s/486",
         "fa": "https://acim-farsi.org/workbook/lesson/81"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "165": [
@@ -2656,7 +2632,7 @@
         "en": "https://acim.org/acim/lesson-193/all-things-are-lessons-god-would-have-me-learn/en/s/601",
         "fa": "https://acim-farsi.org/workbook/lesson/192"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "16": [
@@ -2681,7 +2657,7 @@
         "en": "https://acim.org/acim/lesson-17/i-see-no-neutral-things/en/s/419",
         "fa": "https://acim-farsi.org/workbook/lesson/16"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["4_times", "5_times"]
     }
   ],
   "359": [
@@ -2956,7 +2932,7 @@
         "en": "https://acim.org/acim/review-i/lesson-54/en/s/457",
         "fa": "https://acim-farsi.org/workbook/lesson/53"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "148": [
@@ -2981,7 +2957,7 @@
         "en": "https://acim.org/acim/review-iv/lesson-149/en/s/555",
         "fa": "https://acim-farsi.org/workbook/lesson/148"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "274": [
@@ -3006,7 +2982,7 @@
         "en": "https://acim.org/acim/lesson-275/gods-healing-voice-protects-all-things-today/en/s/692",
         "fa": "https://acim-farsi.org/workbook/lesson/274"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "316": [
@@ -3031,7 +3007,7 @@
         "en": "https://acim.org/acim/lesson-317/i-follow-in-the-way-appointed-me/en/s/738",
         "fa": "https://acim-farsi.org/workbook/lesson/316"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "260": [
@@ -3056,7 +3032,7 @@
         "en": "https://acim.org/acim/lesson-261/god-is-my-refuge-and-security/en/s/677",
         "fa": "https://acim-farsi.org/workbook/lesson/260"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "188": [
@@ -3081,7 +3057,7 @@
         "en": "https://acim.org/acim/lesson-189/i-feel-the-love-of-god-within-me-now/en/s/597",
         "fa": "https://acim-farsi.org/workbook/lesson/188"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": []
     }
   ],
   "73": [
@@ -3106,7 +3082,7 @@
         "en": "https://acim.org/acim/lesson-74/there-is-no-will-but-gods/en/s/477",
         "fa": "https://acim-farsi.org/workbook/lesson/73"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_20_minutes"]
     }
   ],
   "6": [
@@ -3131,7 +3107,7 @@
         "en": "https://acim.org/acim/lesson-7/i-see-only-the-past/en/s/409",
         "fa": "https://acim-farsi.org/workbook/lesson/6"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["3_times", "4_times"]
     }
   ],
   "101": [
@@ -3156,7 +3132,7 @@
         "en": "https://acim.org/acim/lesson-102/i-share-gods-will-for-happiness-for-me/en/s/506",
         "fa": "https://acim-farsi.org/workbook/lesson/101"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "294": [
@@ -3181,7 +3157,7 @@
         "en": "https://acim.org/acim/lesson-295/the-holy-spirit-looks-through-me-today/en/s/714",
         "fa": "https://acim-farsi.org/workbook/lesson/294"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "227": [
@@ -3206,7 +3182,7 @@
         "en": "https://acim.org/acim/lesson-228/god-has-condemned-me-not-no-more-do-i/en/s/640",
         "fa": "https://acim-farsi.org/workbook/lesson/227"
       },
-      "suggestedRepetition": ["every_30_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "246": [
@@ -3256,7 +3232,7 @@
         "en": "https://acim.org/acim/lesson-359/gods-answer-is-some-form-of-peace-all-pain-is/en/s/784",
         "fa": "https://acim-farsi.org/workbook/lesson/358"
       },
-      "suggestedRepetition": ["every_15_minutes"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "163": [
@@ -3306,7 +3282,7 @@
         "en": "https://acim.org/acim/lesson-138/heaven-is-the-decision-i-must-make/en/s/543",
         "fa": "https://acim-farsi.org/workbook/lesson/137"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "182": [
@@ -3331,7 +3307,7 @@
         "en": "https://acim.org/acim/lesson-183/i-call-upon-gods-name-and-on-my-own/en/s/591",
         "fa": "https://acim-farsi.org/workbook/lesson/182"
       },
-      "suggestedRepetition": ["3_times"]
+      "suggestedRepetition": []
     }
   ],
   "248": [
@@ -3356,7 +3332,7 @@
         "en": "https://acim.org/acim/lesson-249/forgiveness-ends-all-suffering-and-loss/en/s/663",
         "fa": "https://acim-farsi.org/workbook/lesson/248"
       },
-      "suggestedRepetition": ["2_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "0": [
@@ -3406,7 +3382,7 @@
         "en": "https://acim.org/acim/lesson-306/the-gift-of-christ-is-all-i-seek-today/en/s/726",
         "fa": "https://acim-farsi.org/workbook/lesson/305"
       },
-      "suggestedRepetition": ["3_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "272": [
@@ -3456,7 +3432,7 @@
         "en": "https://acim.org/acim/lesson-37/my-holiness-blesses-the-world/en/s/439",
         "fa": "https://acim-farsi.org/workbook/lesson/36"
       },
-      "suggestedRepetition": ["6_times"]
+      "suggestedRepetition": ["4_times"]
     }
   ],
   "99": [
@@ -3481,7 +3457,7 @@
         "en": "https://acim.org/acim/lesson-100/my-part-is-essential-to-gods-plan-for-salvation/en/s/504",
         "fa": "https://acim-farsi.org/workbook/lesson/99"
       },
-      "suggestedRepetition": ["3_times"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "129": [
@@ -3506,7 +3482,7 @@
         "en": "https://acim.org/acim/lesson-130/it-is-impossible-to-see-two-worlds/en/s/535",
         "fa": "https://acim-farsi.org/workbook/lesson/129"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "122": [
@@ -3531,7 +3507,7 @@
         "en": "https://acim.org/acim/lesson-123/i-thank-my-father-for-his-gifts-to-me/en/s/528",
         "fa": "https://acim-farsi.org/workbook/lesson/122"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_15_minutes"]
     }
   ],
   "237": [
@@ -3556,7 +3532,7 @@
         "en": "https://acim.org/acim/lesson-238/on-my-decision-all-salvation-rests/en/s/651",
         "fa": "https://acim-farsi.org/workbook/lesson/237"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "327": [
@@ -3581,7 +3557,7 @@
         "en": "https://acim.org/acim/lesson-328/i-choose-the-second-place-to-gain-the-first/en/s/750",
         "fa": "https://acim-farsi.org/workbook/lesson/327"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "219": [
@@ -3606,7 +3582,7 @@
         "en": "https://acim.org/acim/review-vi/lesson-220/en/s/629",
         "fa": "https://acim-farsi.org/workbook/lesson/219"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "11": [
@@ -3631,7 +3607,7 @@
         "en": "https://acim.org/acim/lesson-12/i-am-upset-because-i-see-a-meaningless-world/en/s/414",
         "fa": "https://acim-farsi.org/workbook/lesson/11"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times"]
     }
   ],
   "67": [
@@ -3656,7 +3632,7 @@
         "en": "https://acim.org/acim/lesson-68/love-holds-no-grievances/en/s/471",
         "fa": "https://acim-farsi.org/workbook/lesson/67"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "69": [
@@ -3681,7 +3657,7 @@
         "en": "https://acim.org/acim/lesson-70/my-salvation-comes-from-me/en/s/473",
         "fa": "https://acim-farsi.org/workbook/lesson/69"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "88": [
@@ -3706,7 +3682,7 @@
         "en": "https://acim.org/acim/review-ii/lesson-89/en/s/493",
         "fa": "https://acim-farsi.org/workbook/lesson/88"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "123": [
@@ -3756,7 +3732,7 @@
         "en": "https://acim.org/acim/lesson-136/sickness-is-a-defense-against-the-truth/en/s/541",
         "fa": "https://acim-farsi.org/workbook/lesson/135"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "91": [
@@ -3781,7 +3757,7 @@
         "en": "https://acim.org/acim/lesson-92/miracles-are-seen-in-light-and-light-and-strength/en/s/496",
         "fa": "https://acim-farsi.org/workbook/lesson/91"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_10_minutes", "every_12_minutes"]
     }
   ],
   "203": [
@@ -3831,7 +3807,7 @@
         "en": "https://acim.org/acim/lesson-129/beyond-this-world-there-is-a-world-i-want/en/s/534",
         "fa": "https://acim-farsi.org/workbook/lesson/128"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times"]
     }
   ],
   "356": [
@@ -3931,7 +3907,7 @@
         "en": "https://acim.org/acim/review-i/lesson-53/en/s/456",
         "fa": "https://acim-farsi.org/workbook/lesson/52"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "197": [
@@ -3956,7 +3932,7 @@
         "en": "https://acim.org/acim/lesson-198/only-my-condemnation-injures-me/en/s/606",
         "fa": "https://acim-farsi.org/workbook/lesson/197"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "228": [
@@ -4006,7 +3982,7 @@
         "en": "https://acim.org/acim/lesson-93/light-and-joy-and-peace-abide-in-me/en/s/497",
         "fa": "https://acim-farsi.org/workbook/lesson/92"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "31": [
@@ -4031,7 +4007,7 @@
         "en": "https://acim.org/acim/lesson-32/i-have-invented-the-world-i-see/en/s/434",
         "fa": "https://acim-farsi.org/workbook/lesson/31"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "146": [
@@ -4081,7 +4057,7 @@
         "en": "https://acim.org/acim/lesson-185/i-want-the-peace-of-god/en/s/593",
         "fa": "https://acim-farsi.org/workbook/lesson/184"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "181": [
@@ -4106,7 +4082,7 @@
         "en": "https://acim.org/acim/lesson-182/i-will-be-still-an-instant-and-go-home/en/s/590",
         "fa": "https://acim-farsi.org/workbook/lesson/181"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "23": [
@@ -4131,7 +4107,7 @@
         "en": "https://acim.org/acim/lesson-24/i-do-not-perceive-my-own-best-interests/en/s/426",
         "fa": "https://acim-farsi.org/workbook/lesson/23"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["5_times"]
     }
   ],
   "17": [
@@ -4156,7 +4132,7 @@
         "en": "https://acim.org/acim/lesson-18/i-am-not-alone-in-experiencing-the-effects-of-my/en/s/420",
         "fa": "https://acim-farsi.org/workbook/lesson/17"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times", "4_times"]
     }
   ],
   "70": [
@@ -4181,7 +4157,7 @@
         "en": "https://acim.org/acim/lesson-71/only-gods-plan-for-salvation-will-work/en/s/474",
         "fa": "https://acim-farsi.org/workbook/lesson/70"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "218": [
@@ -4231,7 +4207,7 @@
         "en": "https://acim.org/acim/lesson-194/i-place-the-future-in-the-hands-of-god/en/s/602",
         "fa": "https://acim-farsi.org/workbook/lesson/193"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "221": [
@@ -4256,10 +4232,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/part-2"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "every hour"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -4282,10 +4255,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-forgiveness"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -4383,7 +4353,7 @@
         "en": "https://acim.org/acim/lesson-20/i-am-determined-to-see/en/s/422",
         "fa": "https://acim-farsi.org/workbook/lesson/19"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times", "4_times"]
     }
   ],
   "136": [
@@ -4408,7 +4378,7 @@
         "en": "https://acim.org/acim/lesson-137/when-i-am-healed-i-am-not-healed-alone/en/s/542",
         "fa": "https://acim-farsi.org/workbook/lesson/136"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "329": [
@@ -4458,7 +4428,7 @@
         "en": "https://acim.org/acim/lesson-62/forgiveness-is-my-function-as-the-light-of-the/en/s/465",
         "fa": "https://acim-farsi.org/workbook/lesson/61"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "234": [
@@ -4583,7 +4553,7 @@
         "en": "https://acim.org/acim/lesson-45/god-is-the-mind-with-which-i-think/en/s/447",
         "fa": "https://acim-farsi.org/workbook/lesson/44"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "90": [
@@ -4608,7 +4578,7 @@
         "en": "https://acim.org/acim/lesson-91/miracles-are-seen-in-light/en/s/495",
         "fa": "https://acim-farsi.org/workbook/lesson/90"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "43": [
@@ -4633,7 +4603,7 @@
         "en": "https://acim.org/acim/lesson-44/god-is-the-light-in-which-i-see/en/s/446",
         "fa": "https://acim-farsi.org/workbook/lesson/43"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "287": [
@@ -4733,7 +4703,7 @@
         "en": "https://acim.org/acim/lesson-16/i-have-no-neutral-thoughts/en/s/418",
         "fa": "https://acim-farsi.org/workbook/lesson/15"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times", "4_times"]
     }
   ],
   "134": [
@@ -4758,7 +4728,7 @@
         "en": "https://acim.org/acim/lesson-135/if-i-defend-myself-i-am-attacked/en/s/540",
         "fa": "https://acim-farsi.org/workbook/lesson/134"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "233": [
@@ -4783,7 +4753,7 @@
         "en": "https://acim.org/acim/lesson-234/father-today-i-am-your-son-again/en/s/647",
         "fa": "https://acim-farsi.org/workbook/lesson/233"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "354": [
@@ -4808,7 +4778,7 @@
         "en": "https://acim.org/acim/lesson-355/there-is-no-end-to-all-the-peace-and-joy-and-all-the/en/s/780",
         "fa": "https://acim-farsi.org/workbook/lesson/354"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "253": [
@@ -4833,7 +4803,7 @@
         "en": "https://acim.org/acim/lesson-254/let-every-voice-but-gods-be-still-in-me/en/s/669",
         "fa": "https://acim-farsi.org/workbook/lesson/253"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "256": [
@@ -4858,7 +4828,7 @@
         "en": "https://acim.org/acim/lesson-257/let-me-remember-what-my-purpose-is/en/s/672",
         "fa": "https://acim-farsi.org/workbook/lesson/256"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "103": [
@@ -4883,7 +4853,7 @@
         "en": "https://acim.org/acim/lesson-104/i-seek-but-what-belongs-to-me-in-truth/en/s/508",
         "fa": "https://acim-farsi.org/workbook/lesson/103"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "299": [
@@ -4908,7 +4878,7 @@
         "en": "https://acim.org/acim/lesson-300/only-an-instant-does-this-world-endure/en/s/719",
         "fa": "https://acim-farsi.org/workbook/lesson/299"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "333": [
@@ -4933,7 +4903,7 @@
         "en": "https://acim.org/acim/lesson-334/today-i-claim-the-gifts-forgiveness-gives/en/s/757",
         "fa": "https://acim-farsi.org/workbook/lesson/333"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "77": [
@@ -4958,7 +4928,7 @@
         "en": "https://acim.org/acim/lesson-78/let-miracles-replace-all-grievances/en/s/481",
         "fa": "https://acim-farsi.org/workbook/lesson/77"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": []
     }
   ],
   "25": [
@@ -4983,7 +4953,7 @@
         "en": "https://acim.org/acim/lesson-26/my-attack-thoughts-are-attacking-my/en/s/428",
         "fa": "https://acim-farsi.org/workbook/lesson/25"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["6_times"]
     }
   ],
   "102": [
@@ -5008,7 +4978,7 @@
         "en": "https://acim.org/acim/lesson-103/god-being-love-is-also-happiness/en/s/507",
         "fa": "https://acim-farsi.org/workbook/lesson/102"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "352": [
@@ -5033,7 +5003,7 @@
         "en": "https://acim.org/acim/lesson-353/my-eyes-my-tongue-my-hands-my-feet-today-have-but/en/s/778",
         "fa": "https://acim-farsi.org/workbook/lesson/352"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "27": [
@@ -5058,7 +5028,7 @@
         "en": "https://acim.org/acim/lesson-28/above-all-else-i-want-to-see-things-differently/en/s/430",
         "fa": "https://acim-farsi.org/workbook/lesson/27"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "338": [
@@ -5083,7 +5053,7 @@
         "en": "https://acim.org/acim/lesson-339/i-will-receive-whatever-i-request/en/s/762",
         "fa": "https://acim-farsi.org/workbook/lesson/338"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "223": [
@@ -5108,7 +5078,7 @@
         "en": "https://acim.org/acim/lesson-224/god-is-my-father-and-he-loves-his-son/en/s/636",
         "fa": "https://acim-farsi.org/workbook/lesson/223"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "363": [
@@ -5133,7 +5103,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/lessons-361-365"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "150": [
@@ -5158,7 +5128,7 @@
         "en": "https://acim.org/acim/lesson-151/all-things-are-echoes-of-the-voice-for-god/en/s/557",
         "fa": "https://acim-farsi.org/workbook/lesson/150"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "14": [
@@ -5183,7 +5153,7 @@
         "en": "https://acim.org/acim/lesson-15/my-thoughts-are-images-that-i-have-made/en/s/417",
         "fa": "https://acim-farsi.org/workbook/lesson/14"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["3_times", "4_times"]
     }
   ],
   "26": [
@@ -5208,7 +5178,7 @@
         "en": "https://acim.org/acim/lesson-27/above-all-else-i-want-to-see/en/s/429",
         "fa": "https://acim-farsi.org/workbook/lesson/26"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["6_times"]
     }
   ],
   "126": [
@@ -5233,7 +5203,7 @@
         "en": "https://acim.org/acim/lesson-127/there-is-no-love-but-gods/en/s/532",
         "fa": "https://acim-farsi.org/workbook/lesson/126"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "353": [
@@ -5258,7 +5228,7 @@
         "en": "https://acim.org/acim/lesson-354/we-stand-together-christ-and-i-in-peace-and/en/s/779",
         "fa": "https://acim-farsi.org/workbook/lesson/353"
       },
-      "suggestedRepetition": ["nan"]
+      "suggestedRepetition": ["every_hour"]
     }
   ],
   "362": [
@@ -5358,10 +5328,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/review-6"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "every hour"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -5409,7 +5376,7 @@
         "en": "https://acim.org/acim/review-iii/lesson-115/en/s/520",
         "fa": "https://acim-farsi.org/workbook/lesson/114"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "304": [
@@ -5509,10 +5476,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-the-christ"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -5585,7 +5549,7 @@
         "en": "https://acim.org/acim/lesson-48/there-is-nothing-to-fear/en/s/450",
         "fa": "https://acim-farsi.org/workbook/lesson/47"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["4_times"]
     }
   ],
   "119": [
@@ -5610,7 +5574,7 @@
         "en": "https://acim.org/acim/review-iii/lesson-120/en/s/525",
         "fa": "https://acim-farsi.org/workbook/lesson/119"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "226": [
@@ -5660,10 +5624,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-sin"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -5711,7 +5672,7 @@
         "en": "https://acim.org/acim/lesson-23/i-can-escape-from-the-world-i-see-by-giving-up/en/s/425",
         "fa": "https://acim-farsi.org/workbook/lesson/22"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["5_times"]
     }
   ],
   "267": [
@@ -5761,7 +5722,7 @@
         "en": "https://acim.org/acim/review-i/lesson-56/en/s/459",
         "fa": "https://acim-farsi.org/workbook/lesson/55"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "141": [
@@ -5786,10 +5747,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/review-4"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "every hour"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -5887,7 +5845,7 @@
         "en": "https://acim.org/acim/lesson-65/my-only-function-is-the-one-god-gave-me/en/s/468",
         "fa": "https://acim-farsi.org/workbook/lesson/64"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["1_time"]
     }
   ],
   "140": [
@@ -5937,7 +5895,7 @@
         "en": "https://acim.org/acim/lesson-4/these-thoughts-do-not-mean-anything/en/s/406",
         "fa": "https://acim-farsi.org/workbook/lesson/3"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "76": [
@@ -5962,7 +5920,7 @@
         "en": "https://acim.org/acim/lesson-77/i-am-entitled-to-miracles/en/s/480",
         "fa": "https://acim-farsi.org/workbook/lesson/76"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_15_minutes", "every_12_minutes"]
     }
   ],
   "75": [
@@ -5987,7 +5945,7 @@
         "en": "https://acim.org/acim/lesson-76/i-am-under-no-laws-but-gods/en/s/479",
         "fa": "https://acim-farsi.org/workbook/lesson/75"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "319": [
@@ -6137,7 +6095,7 @@
         "en": "https://acim.org/acim/lesson-80/let-me-recognize-my-problems-have-been-solved/en/s/483",
         "fa": "https://acim-farsi.org/workbook/lesson/79"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "261": [
@@ -6162,10 +6120,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-the-body"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -6213,7 +6168,7 @@
         "en": "https://acim.org/acim/lesson-50/i-am-sustained-by-the-love-of-god/en/s/452",
         "fa": "https://acim-farsi.org/workbook/lesson/49"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["4_times"]
     }
   ],
   "117": [
@@ -6238,7 +6193,7 @@
         "en": "https://acim.org/acim/review-iii/lesson-118/en/s/523",
         "fa": "https://acim-farsi.org/workbook/lesson/117"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "258": [
@@ -6288,7 +6243,7 @@
         "en": "https://acim.org/acim/review-ii/lesson-84/en/s/488",
         "fa": "https://acim-farsi.org/workbook/lesson/83"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "118": [
@@ -6313,7 +6268,7 @@
         "en": "https://acim.org/acim/review-iii/lesson-119/en/s/524",
         "fa": "https://acim-farsi.org/workbook/lesson/118"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "66": [
@@ -6338,7 +6293,7 @@
         "en": "https://acim.org/acim/lesson-67/love-created-me-like-itself/en/s/470",
         "fa": "https://acim-farsi.org/workbook/lesson/66"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "288": [
@@ -6413,7 +6368,7 @@
         "en": "https://acim.org/acim/review-ii/lesson-90/en/s/494",
         "fa": "https://acim-farsi.org/workbook/lesson/89"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "104": [
@@ -6563,7 +6518,7 @@
         "en": "https://acim.org/acim/lesson-35/my-mind-is-part-of-gods-i-am-very-holy/en/s/437",
         "fa": "https://acim-farsi.org/workbook/lesson/34"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times"]
     }
   ],
   "323": [
@@ -6613,7 +6568,7 @@
         "en": "https://acim.org/acim/lesson-9/i-see-nothing-as-it-is-now/en/s/411",
         "fa": "https://acim-farsi.org/workbook/lesson/8"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["4_times", "5_times"]
     }
   ],
   "364": [
@@ -6688,10 +6643,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-the-second-coming"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -6739,7 +6691,7 @@
         "en": "https://acim.org/acim/lesson-196/it-can-be-but-myself-i-crucify/en/s/604",
         "fa": "https://acim-farsi.org/workbook/lesson/195"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "200": [
@@ -6764,7 +6716,7 @@
         "en": "https://acim.org/acim/review-vi/lesson-201/en/s/610",
         "fa": "https://acim-farsi.org/workbook/lesson/200"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "231": [
@@ -6789,10 +6741,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-salvation"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -6840,7 +6789,7 @@
         "en": "https://acim.org/acim/lesson-31/i-am-not-the-victim-of-the-world-i-see/en/s/433",
         "fa": "https://acim-farsi.org/workbook/lesson/30"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "164": [
@@ -6940,7 +6889,7 @@
         "en": "https://acim.org/acim/review-ii/lesson-86/en/s/490",
         "fa": "https://acim-farsi.org/workbook/lesson/85"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "162": [
@@ -6990,10 +6939,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-the-holy-spirit"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -7066,7 +7012,7 @@
         "en": "https://acim.org/acim/lesson-69/my-grievances-hide-the-light-of-the-world-in-me/en/s/472",
         "fa": "https://acim-farsi.org/workbook/lesson/68"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "317": [
@@ -7116,7 +7062,7 @@
         "en": "https://acim.org/acim/review-ii/lesson-85/en/s/489",
         "fa": "https://acim-farsi.org/workbook/lesson/84"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "311": [
@@ -7141,10 +7087,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-the-last-judgment"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -7192,7 +7135,7 @@
         "en": "https://acim.org/acim/lesson-33/there-is-another-way-of-looking-at-the-world/en/s/435",
         "fa": "https://acim-farsi.org/workbook/lesson/32"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "24": [
@@ -7217,7 +7160,7 @@
         "en": "https://acim.org/acim/lesson-25/i-do-not-know-what-anything-is-for/en/s/427",
         "fa": "https://acim-farsi.org/workbook/lesson/24"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["5_times"]
     }
   ],
   "38": [
@@ -7242,7 +7185,7 @@
         "en": "https://acim.org/acim/lesson-39/my-holiness-is-my-salvation/en/s/441",
         "fa": "https://acim-farsi.org/workbook/lesson/38"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["4_times"]
     }
   ],
   "93": [
@@ -7342,10 +7285,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/review-3"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "every hour"
-      }
+      "suggestedRepetition": ["every_30_minutes"]
     },
     {
       "audioAddress": {
@@ -7368,7 +7308,7 @@
         "en": "https://acim.org/acim/review-iii/lesson-112/en/s/517",
         "fa": "https://acim-farsi.org/workbook/lesson/111"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "289": [
@@ -7418,7 +7358,7 @@
         "en": "https://acim.org/acim/lesson-22/what-i-see-is-a-form-of-vengeance/en/s/424",
         "fa": "https://acim-farsi.org/workbook/lesson/21"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["5_times"]
     }
   ],
   "33": [
@@ -7443,7 +7383,7 @@
         "en": "https://acim.org/acim/lesson-34/i-could-see-peace-instead-of-this/en/s/436",
         "fa": "https://acim-farsi.org/workbook/lesson/33"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "212": [
@@ -7493,7 +7433,7 @@
         "en": "https://acim.org/acim/lesson-11/my-meaningless-thoughts-are-showing-me-a/en/s/413",
         "fa": "https://acim-farsi.org/workbook/lesson/10"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["5_times"]
     }
   ],
   "345": [
@@ -7543,7 +7483,7 @@
         "en": "https://acim.org/acim/lesson-63/the-light-of-the-world-brings-peace-to-every-mind/en/s/466",
         "fa": "https://acim-farsi.org/workbook/lesson/62"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "346": [
@@ -7618,7 +7558,7 @@
         "en": "https://acim.org/acim/lesson-192/i-have-a-function-god-would-have-me-fill/en/s/600",
         "fa": "https://acim-farsi.org/workbook/lesson/191"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "28": [
@@ -7643,7 +7583,7 @@
         "en": "https://acim.org/acim/lesson-29/god-is-in-everything-i-see/en/s/431",
         "fa": "https://acim-farsi.org/workbook/lesson/28"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["6_times"]
     }
   ],
   "341": [
@@ -7668,10 +7608,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-a-miracle"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -7819,7 +7756,7 @@
         "en": "https://acim.org/acim/lesson-49/gods-voice-speaks-to-me-all-through-the-day/en/s/451",
         "fa": "https://acim-farsi.org/workbook/lesson/48"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "185": [
@@ -7844,7 +7781,7 @@
         "en": "https://acim.org/acim/lesson-186/salvation-of-the-world-depends-on-me/en/s/594",
         "fa": "https://acim-farsi.org/workbook/lesson/185"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "199": [
@@ -7869,7 +7806,7 @@
         "en": "https://acim.org/acim/lesson-200/there-is-no-peace-except-the-peace-of-god/en/s/608",
         "fa": "https://acim-farsi.org/workbook/lesson/199"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "169": [
@@ -8169,7 +8106,7 @@
         "en": "https://acim.org/acim/lesson-128/the-world-i-see-holds-nothing-that-i-want/en/s/533",
         "fa": "https://acim-farsi.org/workbook/lesson/127"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "37": [
@@ -8194,7 +8131,7 @@
         "en": "https://acim.org/acim/lesson-38/there-is-nothing-my-holiness-cannot-do/en/s/440",
         "fa": "https://acim-farsi.org/workbook/lesson/37"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["4_times"]
     }
   ],
   "100": [
@@ -8244,7 +8181,7 @@
         "en": "https://acim.org/acim/lesson-133/i-will-not-value-what-is-valueless/en/s/538",
         "fa": "https://acim-farsi.org/workbook/lesson/132"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "124": [
@@ -8269,7 +8206,7 @@
         "en": "https://acim.org/acim/lesson-125/in-quiet-i-receive-gods-word-today/en/s/530",
         "fa": "https://acim-farsi.org/workbook/lesson/124"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "46": [
@@ -8294,7 +8231,7 @@
         "en": "https://acim.org/acim/lesson-47/god-is-the-strength-in-which-i-trust/en/s/449",
         "fa": "https://acim-farsi.org/workbook/lesson/46"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times"]
     }
   ],
   "40": [
@@ -8319,7 +8256,7 @@
         "en": "https://acim.org/acim/lesson-41/god-goes-with-me-wherever-i-go/en/s/443",
         "fa": "https://acim-farsi.org/workbook/lesson/40"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_10_minutes"]
     }
   ],
   "57": [
@@ -8344,7 +8281,7 @@
         "en": "https://acim.org/acim/review-i/lesson-58/en/s/461",
         "fa": "https://acim-farsi.org/workbook/lesson/57"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "175": [
@@ -8444,7 +8381,7 @@
         "en": "https://acim.org/acim/lesson-5/i-am-never-upset-for-the-reason-i-think/en/s/407",
         "fa": "https://acim-farsi.org/workbook/lesson/4"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times", "4_times"]
     }
   ],
   "230": [
@@ -8494,7 +8431,7 @@
         "en": "https://acim.org/acim/review-i/lesson-60/en/s/463",
         "fa": "https://acim-farsi.org/workbook/lesson/59"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "247": [
@@ -8644,10 +8581,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-the-world"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -8720,7 +8654,7 @@
         "en": "https://acim.org/acim/lesson-132/i-loose-the-world-from-all-i-thought-it-was/en/s/537",
         "fa": "https://acim-farsi.org/workbook/lesson/131"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times"]
     }
   ],
   "220": [
@@ -8895,7 +8829,7 @@
         "en": "https://acim.org/acim/lesson-14/god-did-not-create-a-meaningless-world/en/s/416",
         "fa": "https://acim-farsi.org/workbook/lesson/13"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times", "4_times"]
     }
   ],
   "189": [
@@ -8920,7 +8854,7 @@
         "en": "https://acim.org/acim/lesson-190/i-choose-the-joy-of-god-instead-of-pain/en/s/598",
         "fa": "https://acim-farsi.org/workbook/lesson/189"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "243": [
@@ -8995,7 +8929,7 @@
         "en": "https://acim.org/acim/review-i/lesson-55/en/s/458",
         "fa": "https://acim-farsi.org/workbook/lesson/54"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "108": [
@@ -9045,7 +8979,7 @@
         "en": "https://acim.org/acim/lesson-43/god-is-my-source-i-cannot-see-apart-from-him/en/s/445",
         "fa": "https://acim-farsi.org/workbook/lesson/42"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "107": [
@@ -9095,7 +9029,7 @@
         "en": "https://acim.org/acim/lesson-131/no-one-can-fail-who-seeks-to-reach-the-truth/en/s/536",
         "fa": "https://acim-farsi.org/workbook/lesson/130"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["6_times"]
     }
   ],
   "214": [
@@ -9170,7 +9104,7 @@
         "en": "https://acim.org/acim/review-iii/lesson-114/en/s/519",
         "fa": "https://acim-farsi.org/workbook/lesson/113"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "157": [
@@ -9220,7 +9154,7 @@
         "en": "https://acim.org/acim/review-ii/lesson-81/en/s/485",
         "fa": "https://acim-farsi.org/workbook/lesson/80"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "74": [
@@ -9245,7 +9179,7 @@
         "en": "https://acim.org/acim/lesson-75/the-light-has-come/en/s/478",
         "fa": "https://acim-farsi.org/workbook/lesson/74"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_15_minutes"]
     }
   ],
   "186": [
@@ -9270,7 +9204,7 @@
         "en": "https://acim.org/acim/lesson-187/i-bless-the-world-because-i-bless-myself/en/s/595",
         "fa": "https://acim-farsi.org/workbook/lesson/186"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "56": [
@@ -9295,7 +9229,7 @@
         "en": "https://acim.org/acim/review-i/lesson-57/en/s/460",
         "fa": "https://acim-farsi.org/workbook/lesson/56"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "361": [
@@ -9320,10 +9254,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/final-lessons"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -9371,7 +9302,7 @@
         "en": "https://acim.org/acim/review-ii/lesson-88/en/s/492",
         "fa": "https://acim-farsi.org/workbook/lesson/87"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "50": [
@@ -9396,7 +9327,7 @@
         "en": "https://acim.org/acim/review-i/lesson-51/en/s/454",
         "fa": "https://acim-farsi.org/workbook/lesson/50"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["2_times"]
     }
   ],
   "224": [
@@ -9471,7 +9402,7 @@
         "en": "https://acim.org/acim/lesson-188/the-peace-of-god-is-shining-in-me-now/en/s/596",
         "fa": "https://acim-farsi.org/workbook/lesson/187"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": []
     }
   ],
   "300": [
@@ -9546,7 +9477,7 @@
         "en": "https://acim.org/acim/lesson-13/a-meaningless-world-engenders-fear/en/s/415",
         "fa": "https://acim-farsi.org/workbook/lesson/12"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["3_times", "4_times"]
     }
   ],
   "291": [
@@ -9571,10 +9502,7 @@
         "en": "",
         "fa": "https://acim-farsi.org/workbook/what-is-the-real-world"
       },
-      "suggestedRepetition": {
-        "en": "",
-        "fa": "none"
-      }
+      "suggestedRepetition": ["every_hour"]
     },
     {
       "audioAddress": {
@@ -9722,7 +9650,7 @@
         "en": "https://acim.org/acim/lesson-121/forgiveness-is-the-key-to-happiness/en/s/526",
         "fa": "https://acim-farsi.org/workbook/lesson/120"
       },
-      "suggestedRepetition": ["every_hour"]
+      "suggestedRepetition": ["every_30_minutes"]
     }
   ],
   "306": [
