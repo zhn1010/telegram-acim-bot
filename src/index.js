@@ -42,7 +42,7 @@ async function setDefaultCommands() {
         if (!user) { deleteReminder(r.id); continue }
         const dt = DateTime.fromISO(r.fire_at_utc, { zone: 'utc' })
         if (dt < DateTime.utc()) { deleteReminder(r.id); continue }
-        scheduleOneShot(bot.telegram, user, dt.setZone(user.tz), r.text, false)
+        scheduleOneShot(bot.telegram, user, dt.setZone(user.tz), r.text, false, r.text_long)
     }
 
     await bot.launch()

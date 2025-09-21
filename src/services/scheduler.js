@@ -28,7 +28,7 @@ function scheduleJobsForUser(tg, user) {
     trackJob(user.tg_id, lessonJob)
 }
 
-function scheduleOneShot(tg, user, dt, repText, persist = true) {
+function scheduleOneShot(tg, user, dt, repText, persist = true, repTextLong = '') {
     let id = null
     if (persist) id = insertReminder(user.tg_id, dt.toUTC().toISO(), repText)
 
@@ -37,7 +37,11 @@ function scheduleOneShot(tg, user, dt, repText, persist = true) {
         cronExp,
         async () => {
             try {
-                await tg.sendMessage(user.tg_id, `🔁 ${repText}`, { parse_mode: 'HTML' })
+                let message = `🔁 ${repText}`
+                if (repTextLong) {
+                    message += `\n\n${repTextLong}`
+                }
+                await tg.sendMessage(user.tg_id, message, { parse_mode: 'HTML' })
             } finally {
                 if (id != null) deleteReminder(id)
                 job.stop()
