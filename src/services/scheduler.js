@@ -37,8 +37,8 @@ function scheduleOneShot(tg, user, dt, repText, persist = true, repTextLong = ''
         cronExp,
         async () => {
             try {
-                let message = `🔁 ${repText}`
-                if (repTextLong) {
+                let message = `🕊️ ${repText}`
+                if (repTextLong && repTextLong !== repText) {
                     message += `\n\n${repTextLong}`
                 }
                 await tg.sendMessage(user.tg_id, message, { parse_mode: 'HTML' })
@@ -61,7 +61,7 @@ function scheduleRepetitions(tg, user, lessonItem) {
     const todayISO = DateTime.now().setZone(user.tz).toISODate()
 
     const lang = user.language
-    const suggestion = (lessonItem.suggestedRepetition ?? ['every_hour'])[0]
+    const suggestion = (lessonItem.suggestedRepetition?.[0] ?? 'every_hour')
 
     const start = parseHHMM(user.rep_start, user.tz)
     const end = parseHHMM(user.rep_end, user.tz)
@@ -71,7 +71,8 @@ function scheduleRepetitions(tg, user, lessonItem) {
     }
 
     const repText = lessonItem.repetitionText[lang] || lessonItem.repetitionText.en || ''
-    times.forEach((dt) => scheduleOneShot(tg, user, dt, repText))
+    const repTextLong = lessonItem.repetitionTextLong?.[lang] || lessonItem.repetitionTextLong?.en || ''
+    times.forEach((dt) => scheduleOneShot(tg, user, dt, repText, true, repTextLong))
 
     user.rem_last_date = todayISO
     updateUser(user)
