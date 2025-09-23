@@ -28,7 +28,8 @@ db.exec(`CREATE TABLE IF NOT EXISTS reminders (
   id          INTEGER PRIMARY KEY AUTOINCREMENT,
   tg_id       INTEGER NOT NULL,
   fire_at_utc TEXT    NOT NULL,
-  text        TEXT    NOT NULL
+  text        TEXT    NOT NULL,
+  text_long   TEXT
 )`)
 
 // Users
@@ -52,16 +53,16 @@ function listActiveUsers() {
 }
 
 // Reminders
-function insertReminder(tg_id, fire_at_utc, text) {
-    const info = db.prepare('INSERT INTO reminders (tg_id, fire_at_utc, text) VALUES (?,?,?)')
-        .run(tg_id, fire_at_utc, text)
+function insertReminder(tg_id, fire_at_utc, text, text_long) {
+    const info = db.prepare('INSERT INTO reminders (tg_id, fire_at_utc, text, text_long) VALUES (?,?,?,?)')
+        .run(tg_id, fire_at_utc, text, text_long)
     return info.lastInsertRowid
 }
 function deleteReminder(id) {
     db.prepare('DELETE FROM reminders WHERE id = ?').run(id)
 }
 function getPendingReminders() {
-    return db.prepare('SELECT id, tg_id, fire_at_utc, text FROM reminders').all()
+    return db.prepare('SELECT id, tg_id, fire_at_utc, text, text_long FROM reminders').all()
 }
 
 function listAllUsersFull() {

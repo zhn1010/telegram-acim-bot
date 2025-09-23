@@ -28,9 +28,9 @@ function scheduleJobsForUser(tg, user) {
     trackJob(user.tg_id, lessonJob)
 }
 
-function scheduleOneShot(tg, user, dt, repText, persist = true, repTextLong = '') {
-    let id = null
-    if (persist) id = insertReminder(user.tg_id, dt.toUTC().toISO(), repText)
+function scheduleOneShot(tg, user, dt, repText, persist = true, repTextLong = '', existingId = null) {
+    let id = existingId
+    if (persist) id = insertReminder(user.tg_id, dt.toUTC().toISO(), repText, repTextLong)
 
     const cronExp = scheduleDateToCron(dt.setZone(user.tz))
     const job = cron.schedule(
