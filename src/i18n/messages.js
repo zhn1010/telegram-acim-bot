@@ -2,18 +2,18 @@ const {
     DEFAULT_LANGUAGE,
 } = require('../config')
 
-function convertToArabicNumbers(num) {
+function convertToPersianNumbers(num) {
     const arabicNumbers = [
-        '٠',
-        '١',
-        '٢',
-        '٣',
-        '٤',
-        '٥',
-        '٦',
-        '٧',
-        '٨',
-        '٩'
+        '۰',
+        '۱',
+        '۲',
+        '۳',
+        '۴',
+        '۵',
+        '۶',
+        '۷',
+        '۸',
+        '۹'
     ]
     return String(num).split('').map(digit => arabicNumbers[Number(digit)]).join('')
 }
@@ -65,7 +65,7 @@ function messages(lang) {
             first_wait_tomorrow: (t) => `⏰ منتظر بمانید تا فردا ساعت ${t}`,
             first_started: 'در حال شروع درس ۱…',
             first_scheduled_today: (t) => `عالی — امروز ساعت ${t} برایتان ارسال می‌شود.`,
-            lesson_number: (num) => `درس ${convertToArabicNumbers(num)}`,
+            lesson_number: (num) => `درس ${convertToPersianNumbers(num)}`,
             introduction: 'مقدمه',
         }
         : {
